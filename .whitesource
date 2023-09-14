@@ -1,4 +1,7 @@
 {
-  "settingsInheritedFrom": "HughCDemoCorp/whitesource-config@main"
+  "settingsInheritedFrom": "HughCDemoCorp/whitesource-config@main",
+  "scanSettings": {
+    "javaVersion": 17
+  }
 }
 
